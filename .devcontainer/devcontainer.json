@@ -1,0 +1,5 @@
+gh repo clone ChromeDevTools/devtools-frontend{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
